@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085bb2d8-d4e8-45a8-9d20-c526a36a2d48" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/13DTS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/307e0aea-ab87-4584-a931-217c7e251852.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled_sqlite_create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_20200325_125944.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_20200328_085635.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_20200329_082737.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_20200401_094616.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/IMG_20200418_121824.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/aeropress.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chemex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/coldbrew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/espresso.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/flatwhite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hotchoc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/latte.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/longblack.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/moka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/plunger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/v60.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/smile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/smile_cafe.db" afterDir="false" />
-    </list>
+    <list default="true" id="085bb2d8-d4e8-45a8-9d20-c526a36a2d48" name="Changes" comment="a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -120,7 +84,23 @@
       <workItem from="1676846260301" duration="1999000" />
       <workItem from="1676928695922" duration="2269000" />
       <workItem from="1677029609306" duration="127000" />
+      <workItem from="1677029749010" duration="251000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1677029775438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677029775438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a">
+      <created>1677029983722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677029983722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
