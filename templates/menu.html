@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block pageheading %}
+menu
+{% endblock %}
+
+{% block main %}
+    <div class="products">
+        <div class="product-box">
+            <div class="product-box-heading"><h2>Mocha</h2></div>
+            <div class="product-box-image"><img src="/static/images/moka.jpg"></div>
+            <div class="product-box-info">mocaccino</div>
+            <div class="product-box-info"><strong>Size:</strong>240ML</div>
+            <div class="product-box-info"><strong>Price:</strong>$4.00</div>
+        </div>
+
+        <div class="product-box">
+            <div class="product-box-heading"><h2>Latte</h2></div>
+            <div class="product-box-image"><img src="/static/images/latte.jpg"></div>
+            <div class="product-box-info">latte</div>
+            <div class="product-box-info"><strong>Size:</strong>240ML</div>
+            <div class="product-box-info"><strong>Price:</strong>$4.00</div>
+        </div>
+    </div>
+{% endblock %}
